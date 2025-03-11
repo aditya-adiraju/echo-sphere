@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# EchoSphere
 
-First, run the development server:
+![image](https://github.com/user-attachments/assets/a954dbb4-3384-4006-92ee-5912605eacbc)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Inspiration
+As a small music artist or podcast host, it can be difficult to get your music out there. People who want to be singers, podcasters, or radio show hosts generally face a high barrier of entry for breaking into the industry. Live radio is becoming less and less common in the modern age as various streaming apps have replaced it. However, millions of people love listening to music/podcasts, and watching live streams, with a major feature being the live chat and social connection.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## What it does
+We have built a solution to bring radio into the modern age with echosphere, an interactive livestreaming radio station platform. Our app aims to give creators an accessible platform to broadcast their own customizable radio show, to hone their radio hosting skills or share music. Users can tune into stations based on their listening preferences and be able to interact with the host and other listeners through live chatting, similar to a conventional video livestream.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technologies Used
+- webrtc
+- go
+- next.js
+- react
+- figmaD
+- typescript
+- tailwindcss
 
-## Learn More
+## Resources
+- [Figma Presentation](https://www.figma.com/proto/QuI8gNkzDqTRARi1RRhRah/Echosphere?page-id=18%3A3700&node-id=39-2928&p=f&viewport=126%2C143%2C0.06&t=eRFYr7nU4G8MFkUa-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=39%3A2928)
+- [DevPost](https://devpost.com/software/echosphere)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Made with ❤️ by Aditya Adiraju, Bonnie Lu, Mattias Wong, Simon Xu
